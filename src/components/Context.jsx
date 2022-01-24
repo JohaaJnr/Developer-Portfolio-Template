@@ -32,10 +32,12 @@ state = {
     Professional: [
         {
             company: 'Freelance Developer',
+            position: '',
             timelapse: 'Since 2019 - Present'
         },
         {
             company: 'Ayan Tech Limited',
+            position: 'Software Engineer',
             timelapse: 'Since Jan 2022-Present'
         }
     ],

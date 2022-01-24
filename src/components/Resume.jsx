@@ -49,6 +49,7 @@ const Resume = () => {
                                      return(
                                         <li>
                                         <p className='card-text'>{e.company}</p>
+                                        <p className='card-text'>{e.position}</p>
                                         <p className="card-text">{e.timelapse}</p>
                                         
                                         </li>
