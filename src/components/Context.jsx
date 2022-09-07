@@ -46,7 +46,12 @@ state = {
         {
             React: [
                 {
-                    title: 'React Task Tracker',
+                    title: 'Shopping Cart using NEXT JS, Context & Reducer',
+                    projectImg : require('../img/chorki.JPG'),
+                    projectUrl : 'https://chorki.vercel.app/'
+                },
+                {
+                    title: 'React Task Tracker FullStack (MERN)',
                     projectImg:  require('../img/mernappp.JPG'),
                     projectUrl: 'https://mern-app-fullstack.herokuapp.com'
                 },
@@ -60,6 +65,11 @@ state = {
         {
             Node: [
                 {
+                    title: 'Modern Authentication & Login System using Mongodb & JWT',
+                    projectImg : require('../img/dash.JPG'),
+                    projectUrl : 'https://github.com/JohaaJnr/loginSystemNodeJS'
+                },
+                {
                     title: 'Node Login Oauth Passport Task Manager',
                     projectImg: require('../img/nodeapp.JPG'),
                     projectUrl: 'https://nodeloginoauth20.herokuapp.com'
@@ -71,15 +81,7 @@ state = {
                 }
             ]
         },
-        {
-            Laravel: [
-                {
-                    title: 'Laravel CRUD Task Manager',
-                    projectImg: require('../img/laravelapp.JPG'),
-                    projectUrl: 'https://github.com/JohaaJnr/laravelCRUDauthentication'
-                }
-            ]
-        }
+       
 
     ]
         

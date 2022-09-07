@@ -75,23 +75,7 @@ const Portfolio = () => {
                                })
                            }
 
-                           {
-                               value.Projects[2].Laravel.map(e => {
-                                   return(
-                                    <div className='col'>
-                                    <div id='project' className="card" style={{ maxwidth: "18rem", maxHeight: "18rem", background: "rgb(0,0,0,0)" }}>
-                                        <img src={e.projectImg} className="card-img-top" alt="projects" />
-                                        <div className="card-body">
-                                            <h5 className="card-title">{e.title}</h5>
-
-                                            <a target='_blank' rel="noreferrer" href={e.projectUrl} className="btn btn-outline-light">Visit Project</a>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                   )
-                               })
-                           }
+                         
 
                                 </div>
                             </div>
@@ -160,23 +144,7 @@ const Portfolio = () => {
                             <div className='mt-3'>
                             <div className='row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-3 '>
                             
-                            {
-                               value.Projects[2].Laravel.map(e => {
-                                   return(
-                                    <div className='col'>
-                                    <div id='project' className="card" style={{ maxwidth: "18rem", maxHeight: "18rem", background: "rgb(0,0,0,0)" }}>
-                                        <img src={e.projectImg} className="card-img-top" alt="projects" />
-                                        <div className="card-body">
-                                            <h5 className="card-title">{e.title}</h5>
-
-                                            <a target='_blank' rel="noreferrer" href={e.projectUrl} className="btn btn-outline-light">Visit Project</a>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                   )
-                               })
-                           }
+                          
 
                             </div>
                             </div>
