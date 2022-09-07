@@ -27,9 +27,7 @@ const Portfolio = () => {
                         <li className="nav-item" role="presentation">
                             <button className="nav-link" id="node-tab" data-bs-toggle="tab" data-bs-target="#node" type="button" role="tab"  aria-selected="false">Node</button>
                         </li>
-                        <li className="nav-item" role="presentation">
-                            <button className="nav-link" id="laravel-tab" data-bs-toggle="tab" data-bs-target="#laravel" type="button" role="tab" aria-selected="false">Laravel</button>
-                        </li>
+                       
                     </ul>
                     
 
