@@ -16,7 +16,7 @@ const Home = () => {
                         <div class="card-body">
                             
                             <h5 class="card-title">Hello, I'm a full stack MERN developer. I'd love to develop and deploy scaleable website and web APIs.
-                                I have 2 year(s) of experience in developing full stack web application.</h5>
+                                I have 2 year(s) of learning experience in developing full stack web application.</h5>
                                 <p className='card-text'>Interested? Give a call or send a mail. I'd love to hear from you.</p>
 
                                 <div className='mt-3 mb-3'>
