@@ -10,7 +10,7 @@ const Home = () => {
                             <Link to="#" className='fs-5 fw-bold' style={{ color: "white"}}>About</Link>
                             <div className='mx-2'>
                                 <Link to='/Portfolio' className='text-white px-1'>Portfolio</Link> /  
-                                 <Link to='/Resume' className='text-white px-1'>Resume</Link>
+{*/ <Link to='/Resume' className='text-white px-1'>Resume</Link> /*}
                             </div>
                         </div>
                         <div class="card-body">
